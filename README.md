@@ -1,2 +1,2 @@
 # images
-this is gonna be where i will upload the images that i will use in our system
+This is where I will upload the images that I will use in our system.
